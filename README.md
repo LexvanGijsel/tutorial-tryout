@@ -5,10 +5,49 @@
 
 This repository can be added as an **extension** in MakeCode.
 
+---
+
+html code:
+
+<img src="https://lexvangijsel.github.io/tutorial-tryout/DevLab Academy white rectangle lores.png" width="300" />
+
+kleiner logo
+nog meer tekst toevoegen
+nog meer tekst toevoegen
+nog meer tekst toevoegen
+nog meer tekst toevoegen
+
+
+nog meer tekst toevoegen
+nog meer tekst toevoegen
+nog meer tekst toevoegen
+nog meer tekst toevoegen
+> nog meer tekst toevoegen
+
+![logo](https://lexvangijsel.github.io/tutorial-tryout/DevLab Academy white rectangle lores.png) {:width=150px}
+
+kleinere file
+
+---
+
+![logo2](https://lexvangijsel.github.io/tutorial-tryout/DevLab Academy white rectangle small.png)
+
+html code:
+
+<img src="https://lexvangijsel.github.io/tutorial-tryout/DevLab Academy white rectangle lores.png" width="300" />
+
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/lexvangijsel/tutorial-tryout** and import
+
+```blocks
+basic.forever(function () {
+	
+})
+```
+
+
 
 ## Edit this project ![Build status badge](https://github.com/lexvangijsel/tutorial-tryout/workflows/MakeCode/badge.svg)
 
